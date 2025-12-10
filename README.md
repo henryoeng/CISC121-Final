@@ -12,7 +12,7 @@ sdk_version: 6.1.0
 # Project: Interactive Sorting Algorithm Simulation
 
 ## Demo video/gif/screenshot of test
-![Sorting Demo](images/sorting-demo.gif)
+![Sorting Demo](sorting-demo.gif)
 
 
 ## Problem Breakdown & Computational Thinking (You can add a flowchart , write the four pillars of computational thinking briefly in bullets, etc.)
