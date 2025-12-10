@@ -28,7 +28,7 @@ Design an algorithim visualizer (bubble sort) with an interactive step by step v
 
 4. Algorithm Design: I created a step by step version of bubble sort instead of it automatically looping. Each comparision there is blue highlights and each swap there is a green highlight. 
 
-![Flowchart Image](images/flow-chart.png)
+![Flowchart Image](flow-chart.png)
 
 ## Steps to Run
 
