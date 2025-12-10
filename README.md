@@ -11,6 +11,8 @@ sdk_version: 6.1.0
 
 # Project: Interactive Sorting Algorithm Simulation
 
+# AI Chat log: https://chatgpt.com/share/6938cce3-4264-800a-ab54-834808d799f
+
 ## Demo video/gif/screenshot of test
 ![Sorting Demo](sorting-demo.gif)
 
