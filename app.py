@@ -1,3 +1,4 @@
+#[AI Disclaimer: Used ChatGPT with prompt, "Create me a bubble sort that stops and help me with the html basis to create boxes and their animations"]
 import gradio as gr
 import time
 
